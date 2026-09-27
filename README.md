@@ -31,6 +31,7 @@ A capability-scoped runtime that gives agents controlled access to the filesyste
 |---|---|
 | 🌾 **Natural-farming platform** | Freelance. Farmer education, one-year enrollment & follow-up, crop e-commerce/delivery, farmer and payment dashboards |
 | 👕 **Clothing e-commerce store** | Freelance. Full storefront plus the back office behind it: payments dashboard, CRM, CMS and admin tools |
+| 🧽 **Cleaning service site** | Freelance. A small business site with WhatsApp automation for handling enquiries and bookings |
 | 🏭 **Keel** | An operational layer for manufacturing that gradually replaces parts of legacy ERP workflows |
 
 I also do a lot of creative work: AI image generation, visual storytelling and creative direction. I like taking something that only exists as text and turning it into something you can see or click through.
