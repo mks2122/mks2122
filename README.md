@@ -11,7 +11,7 @@ I'm an **AI Product Engineer at Qik Office** in Chennai. I usually own things en
 ### ⚙️ Now
 
 **At Qik**, since Aug 2024 (started as an intern)
-- Production agent infrastructure with **50+ tools**, MCP / tool-calling, context handling, permissions and failure handling on real product data
+- Production agent infrastructure with **115+ tools**, MCP / tool-calling, context handling, permissions and failure handling on real product data
 - Meeting intelligence, Zoom / Google Meet bots, AI Project Manager concepts, long-running workflows
 - Backend APIs, browser extensions, cross-platform apps, and Kubernetes infra across **~18 services**
 - Worked on-site with a well-known VFX studio to fit the product to their workflow and security needs: IP-based login, upload and screen-share restrictions, access controls
@@ -30,6 +30,7 @@ A capability-scoped runtime that gives agents controlled access to the filesyste
 | | |
 |---|---|
 | 🌾 **Natural-farming platform** | Freelance. Farmer education, one-year enrollment & follow-up, crop e-commerce/delivery, farmer and payment dashboards |
+| 👕 **Clothing e-commerce store** | Freelance. Full storefront plus the back office behind it: payments dashboard, CRM, CMS and admin tools |
 | 🏭 **Keel** | An operational layer for manufacturing that gradually replaces parts of legacy ERP workflows |
 
 I also do a lot of creative work: AI image generation, visual storytelling and creative direction. I like taking something that only exists as text and turning it into something you can see or click through.
